@@ -1,0 +1,6 @@
+· [INFO] 2025-01-10 User logged in
+· [WARNING] Invalid password attempt
+· [ERROR] 2025-02-31 Invalid calendar date check
+Línea corrupta sin formato de log
+· [DEBUG] 2025-01-12 Nivel no reconocido en reglas
+· [ERROR] 2025-01-15 Database timeout again
