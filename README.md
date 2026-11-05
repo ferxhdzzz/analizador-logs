@@ -1,8 +1,11 @@
 # Analizador de Archivos Log en Python
 
 **Estudiante:** Fernanda Hernandez
+
 **Institución:** Kodigo 
+
 **Materia:** Análisis de Logs y Desarrollo de Software  
+
 **Lenguaje:** Python  
 
 ---
